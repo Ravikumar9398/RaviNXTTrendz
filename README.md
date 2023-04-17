@@ -189,3 +189,4 @@ Use these files to complete the implementation:
 # nxtTrendz
 # nxtTrendz
 # nxtShoppingPage
+# nxtShoppingPage
