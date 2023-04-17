@@ -188,3 +188,4 @@ Use these files to complete the implementation:
 # RaviNXTTrendz
 # nxtTrendz
 # nxtTrendz
+# nxtShoppingPage
