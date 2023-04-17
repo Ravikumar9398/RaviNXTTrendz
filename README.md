@@ -186,3 +186,4 @@ Use these files to complete the implementation:
 # NxtTrendz
 # NxtTrendz
 # RaviNXTTrendz
+# nxtTrendz
